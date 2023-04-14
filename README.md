@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **raydedon@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/raydedon/raydedon/blob/main/Animesh_Ray_Resume.pdf](https://github.com/raydedon/raydedon/blob/main/Animesh_Ray_Resume.pdf)
+- 📄 Know about my experiences [Animesh_Ray_Resume.pdf](https://github.com/raydedon/raydedon/blob/main/Animesh_Ray_Resume.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
