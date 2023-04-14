@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh Ray</h1>
-<h3 align="center">I am a story teller and a passionate javascript developer from India</h3>
+<h3 align="center">I am a father of two doting daughters, a storyteller, and a passionate javascript developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raydedon&label=Profile%20views&color=0e75b6&style=flat" alt="raydedon" /> </p>
 
