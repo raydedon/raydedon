@@ -1,0 +1,46 @@
+Hi
+
+I went through the job description and about your company. I would love to be part of your team. I am a story teller and a Javascript enthusiast. I am currently spearheading the role of a Principal developer at an e-commerce company, Advance Auto Parts, Hyderabad. In my 12+ years of experience in mobile and web development, I have always worked in startups to build meaningful software products. As a full-stack developer, I have worn multiple hats to get things done, but react, javascript, and visualization excite me the most. 
+I have B1/B2 visa approved for the USA.
+
+Following are achievements or accomplishments, which is worth mentioning:-
+1. Built a high performing team here at Advance Auto Parts. It includes actively hiring and mentoring team members.
+2. Optimized the performance of our ecommerce web app. This involved the following steps:-
+	a. upgraded to http2 servers on nginx. This helped us in leveraging the benefit of http2 like server push, request multiplexing, and reduced header size.
+	b. introduced redis.
+	c. iteratively improving the core web vitals score. there by leading to an improved SEO ranking.
+
+3. looked into the security aspect of the e-commerce application. Implemented CSP, Snyk scans.
+
+4. single-handedly delivered all the visualization projects on d3. Some of the graphs I have put out in open at https://www.willsnvision.com/. I have also developed a few more advanced visualization graphs which are not mentioned here.
+
+5. Prototyped and currently developing voice and video calls using webrtc.
+
+6. Implemented Oauth2 to generate tokens for clients(Auth code, Implicit, and client credential grant types). So that third-party apps can integrate with us and fetch data on behalf of clients.
+
+7. SAML integration of our collaboration tool, so that our clients can single sign-on into our product(collaboration tool).
+
+8. Feature development on B2C mobile app(react-native). https://itunes.apple.com/in/app/optymyze/id1210409076?mt=8 https://play.google.com/store/apps/details?id=com.optymyze.OptymyzeSalesOpsMobile&hl=en_IN
+
+9. Received Amazon voucher worth 10k, twice a year for writing the maximum amount of unit tests. This has helped us in writing stable and testable code.
+ 
+How will I add value to your org:-
+1. I have B1/B2 call visa approved for USA. So I can easily commute to USA for any business needs.
+2. I have a good command on the following tech stack:-
+	frontend: react, next.js, react-native, rx-js, typescript, socket-io
+	backend: nodejs, express, nestjs, prisma.io
+	visualization: d3
+	devops: Docker, AWS, PM2, nginx, terraform 
+	database: PostgreSQL, mongodb, redis
+	tools: splunk, new relic, quantum metrics
+
+3. Building a high performance team by hiring new candidates and constantly mentoring the junior folks.
+4. I can be a great help to the company in terms of front-end technology. I have done a humongous amount of work that is frontend intensive. In terms of the front-end, you can rely 101% on me.
+
+I have also attached my resume for your reference.
+
+SkypeId: raydedon
+email: raydedon@gmail.com
+Phone number: +91-9552449305
+
+Cheers!!
