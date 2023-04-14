@@ -9,9 +9,18 @@
 
 - 👯 Recently I have made a [infinite-scroll](https://github.com/raydedon/infinite-scroll). Please have a look at the [demo](https://d3.willsnvision.com/).
 
-- 💬 Ask me about **react, react native, angular, node, express**
+- 🤝 collaboration tool, chat application with webrtc. [webrtc-chat-app](https://github.com/raydedon/webrtc-chat-app).
+
+- 👨‍💻 All of my projects are available at [https://willsnvision.com/](https://willsnvision.com/)
+
+- 🌱 I’m currently learning **react-native, nestjs**
+
+- 💬 Ask me about **react, react native, angular, node**
 
 - 📫 How to reach me **raydedon@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/raydedon/raydedon/blob/main/Animesh_Ray_Resume.pdf](https://github.com/raydedon/raydedon/blob/main/Animesh_Ray_Resume.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
