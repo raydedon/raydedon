@@ -9,7 +9,7 @@
 
 - 👯 Recently I have made an [infinite-scroll](https://github.com/raydedon/infinite-scroll). Please have a look at the [demo](http://iscroll.willsnvision.com/). Use **a@a.com** as username and **a** as password.
 
-- 🤝 collaboration tool, chat application with webrtc. [webrtc-chat-app](https://github.com/raydedon/webrtc-chat-app).
+- 🤝 collaboration tool, chat application with webrtc. [webrtc-chat-app](https://github.com/raydedon/webrtc-chat-app). Please have a look at the [demo](https://chat.willsnvision.com/).
 
 - 🌱 I’m currently learning **nestjs**
 
