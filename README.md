@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/raydedon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raydedon" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/animesh-ray-wins/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Animesh Ray" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ray.dedon.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Animesh Ray" height="30" width="40" /></a>
-<a href="https://www.instagram.com/animesh6127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Animesh Ray" height="30" width="40" /></a>
+<a href="https://x.com/raydedon" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raydedon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/animesh-ray-wins/" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Animesh Ray" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ray.dedon.9/" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Animesh Ray" height="30" width="40" /></a>
+<a href="https://www.instagram.com/animesh6127/" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Animesh Ray" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
