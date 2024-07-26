@@ -41,15 +41,14 @@ How will I add value to your org:-
 
 2. I have a good command on the following tech stack:-
 
-frontend: react, next.js, react-native, rx-js, typescript, javascript, angularjs, socket.io, d3.js, danger.js, redux, tanstack react-query, redux toolkit, material ui, SEO.
+Frontend: react, next.js, react-native, rx-js, typescript, javascript, angularjs, socket.io, d3.js, danger.js, redux, tanstack react-query, redux toolkit, zustand, tailwind css, material ui, apollo client, graphQL, SEO.
 
-backend: nodejs, express, nestjs, prisma.io, Java, Spring Boot, Gradle, ElasticSearch.
+Backend: nodejs, express, nestjs, prisma.io, Java, Spring Boot, Gradle, ElasticSearch.
 
-devops: Docker, AWS, PM2, nginx, terraform, kafka, redis message queue, K8s, AgroCD, Komodor, Vercel, cloudflare, akamai, github actions, jenkins.
+Monitoring & Observability: Cloud Watch, New Relic, ELK, Grafana, sentry.io, splunk, quantum metrics
+Cloud and DevOps Proficiency: Docker, AWS, PM2, nginx, terraform, kafka, redis message queue, K8s, AgroCD, Komodor, Vercel, cloudflare, akamai, github actions, jenkins.
 
-database: PostgreSQL, mongodb, redis
-
-tools: splunk, new relic, quantum metrics, sentry.io
+Database: knowledge of relational & NoSQL. PostgreSQL, mongodb, redis.
 
 3. Building a high performance team by hiring new candidates and constantly mentoring the junior folks.
 
